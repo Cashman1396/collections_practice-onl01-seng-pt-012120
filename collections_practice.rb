@@ -23,4 +23,5 @@ def reverse_array
   array.reverse
 end 
 
-def kesha_marker
+def kesha_marker(array)
+  
