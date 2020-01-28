@@ -4,5 +4,7 @@ end
 
 def sort_array_desc(right, left)
   array.sort do |left, right|
-    
-    right <=> left
+    right.length <=> left.length
+  end
+  
+  
