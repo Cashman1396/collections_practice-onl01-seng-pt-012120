@@ -6,5 +6,6 @@ def sort_array_desc(right, left)
   array.sort do |left, right|
     right.length <=> left.length
   end
-  
-  
+end
+
+
